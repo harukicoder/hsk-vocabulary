@@ -1,0 +1,12 @@
+{
+    "standard": "hsk-2012",
+    "applies_to": [
+        "hsk-level-1.json",
+        "hsk-level-2.json",
+        "hsk-level-3.json",
+        "hsk-level-4.json",
+        "hsk-level-5.json",
+        "hsk-level-6.json"
+    ],
+    "$comment": "These lists follow the 2012 HSK examination syllabus (levels 1-6). Since July 2026 the HSK exam follows the 2025 syllabus, which places about half of the words they share at a different level. Identifier from https://github.com/harukicoder/hsk30/blob/main/spec/standards.json (CC0)."
+}
